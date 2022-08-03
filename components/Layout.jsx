@@ -9,6 +9,7 @@ const Layout = ({ children }) => {
     <div className="layout">
       <Head>
         <title>ReCommerce</title>
+        <link rel="icon" href="/favicon.png" />
       </Head>
       <header>
         <Navbar />
