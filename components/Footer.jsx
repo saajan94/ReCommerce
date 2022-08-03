@@ -12,7 +12,11 @@ const Footer = () => {
       <p className="icons">
         <AiFillInstagram />
         <AiOutlineTwitter />
-        <a href="https://github.com/saajan94/ReCommerce" target="_blank">
+        <a
+          href="https://github.com/saajan94/ReCommerce"
+          target="_blank"
+          rel="noreferrer"
+        >
           <AiFillGithub />
         </a>
       </p>
